@@ -2,9 +2,20 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Ansible](https://img.shields.io/badge/Ansible-2.9%2B-red.svg)](https://www.ansible.com/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://tiaastor.github.io/tiation-ansible-enterprise/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://tiation.github.io/tiation-ansible-enterprise/)
 
 > 🚀 Enterprise-grade Ansible automation platform for streamlined GitHub repository management, infrastructure deployment, and development workflow optimization.
+
+## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](.screenshots/dashboard-overview.png)
+
+### Playbook Execution
+![Playbook Execution](.screenshots/playbook-execution.png)
+
+### Infrastructure Management
+![Infrastructure Management](.screenshots/infrastructure-management.png)
 
 ## 📋 About
 
@@ -47,7 +58,7 @@ tiation-ansible-enterprise/
 
 ```bash
 # Clone the repository
-git clone https://github.com/tiaastor/tiation-ansible-enterprise.git
+git clone https://github.com/tiation/tiation-ansible-enterprise.git
 cd tiation-ansible-enterprise
 
 # Install dependencies
@@ -150,9 +161,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/tiaastor/tiation-ansible-enterprise)
-- [Documentation Site](https://tiaastor.github.io/tiation-ansible-enterprise/)
-- [Issue Tracker](https://github.com/tiaastor/tiation-ansible-enterprise/issues)
+- [GitHub Repository](https://github.com/tiation/tiation-ansible-enterprise)
+- [Documentation Site](https://tiation.github.io/tiation-ansible-enterprise/)
+- [Issue Tracker](https://github.com/tiation/tiation-ansible-enterprise/issues)
 
 ## 🛠️ Built With
 
